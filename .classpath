@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/javase.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/jersey-core-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/jersey-server-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/jersey-servlet-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/mongo-java-driver-2.9.3.jar" sourcepath="WebContent/WEB-INF/lib/mongo-java-driver-2.9.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/CBR_REST/WebContent/WEB-INF/lib/mongo-java-driver-2.9.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/mongo-java-driver-2.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/mongo-java-driver-2.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/NotNoop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DickFingers/Documents/GitHub/CBR_REST/WebContent/WEB-INF/lib/xstream-1.4.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
